@@ -1,0 +1,2132 @@
+{
+    "bodies": {
+        "0b40d208-0529-11ec-b1f1-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.223000000000001,
+                    "y": 3.6162466712864245,
+                    "z": -7.709893445523985
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.223000000000001,
+                    "y": 3.2683246674337227,
+                    "z": -8.057815449376687
+                }
+            }
+        },
+        "0b41206c-0529-11ec-87d0-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 8.89,
+                    "y": 3.1622999999999997,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -8.89,
+                    "y": 0.0,
+                    "z": -7.62
+                }
+            }
+        },
+        "0b419630-0529-11ec-a6a6-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 8.89,
+                    "y": 6.35,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -8.89,
+                    "y": 4.2036999999999995,
+                    "z": -7.62
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.35,
+                    "y": 3.338396583879681,
+                    "z": -12.486973073776904
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.35,
+                    "y": 2.1827038144317688,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b427fe4-0529-11ec-ba06-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.4765047046537091,
+                    "y": -0.03,
+                    "z": 0.3261764068711927
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.948495295346291,
+                    "y": -0.24738961030678924,
+                    "z": -0.4613235931288074
+                }
+            }
+        },
+        "0b42a6e6-0529-11ec-8f25-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.948495295346293,
+                    "y": 0.5549999999999998,
+                    "z": 0.29492640687119254
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.47650470465371086,
+                    "y": 0.029999999999999777,
+                    "z": -1.205073593128807
+                }
+            }
+        },
+        "0b431c1c-0529-11ec-b773-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.079745295346291,
+                    "y": 0.705052008965259,
+                    "z": -0.9251135931288075
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6077547046537091,
+                    "y": 0.030052008965258878,
+                    "z": -3.9926135931288074
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.35,
+                    "y": 3.6263770689073462,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.35,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b44c9ee-0529-11ec-a67d-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.085370295346291,
+                    "y": 2.410999860935508,
+                    "z": 0.5587464068711929
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6133797046537091,
+                    "y": 2.0262087100950614,
+                    "z": -1.179123593128807
+                }
+            }
+        },
+        "0b453f24-0529-11ec-a9a4-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 4.0639999809265035,
+                    "y": 2.540000019073486,
+                    "z": 6.8580000000000005
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.5079999809265041,
+                    "y": 1.016000019073486,
+                    "z": -1.1102230246251565e-16
+                }
+            }
+        },
+        "0b4565ee-0529-11ec-b6a3-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 19.35405792774374,
+                    "y": 4.253542592401063,
+                    "z": 2.54
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 15.665821459041053,
+                    "y": 0.060864433501210964,
+                    "z": 0.0
+                }
+            }
+        },
+        "0b45b43a-0529-11ec-8f48-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.4765047046537091,
+                    "y": -0.03,
+                    "z": 0.4613235931288074
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.948495295346291,
+                    "y": -0.24738961030678924,
+                    "z": -0.3261764068711927
+                }
+            }
+        },
+        "0b46024a-0529-11ec-81a8-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 14.736220378105575,
+                    "y": -0.33885313279730483,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 11.615325764607313,
+                    "y": -0.41386805128507786,
+                    "z": 0.0
+                }
+            }
+        },
+        "0b465040-0529-11ec-8806-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 14.491314189691515,
+                    "y": 1.0342441247563305,
+                    "z": 6.8580000000000005
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 11.856442754565066,
+                    "y": -0.3592283705849766,
+                    "z": 0.762
+                }
+            }
+        },
+        "0b473a98-0529-11ec-846a-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.285677805331024,
+                    "y": 3.048,
+                    "z": 9.271000275611879
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.285677805331022,
+                    "y": 2.032,
+                    "z": 7.62
+                }
+            }
+        },
+        "0b482558-0529-11ec-8461-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.079745295346291,
+                    "y": 0.705052008965259,
+                    "z": 3.9926135931288074
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6077547046537091,
+                    "y": 0.030052008965258878,
+                    "z": 0.9251135931288075
+                }
+            }
+        },
+        "0b495d6c-0529-11ec-ace9-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.948495295346293,
+                    "y": 0.5549999999999998,
+                    "z": 1.205073593128807
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.47650470465371086,
+                    "y": 0.029999999999999777,
+                    "z": -0.29492640687119276
+                }
+            }
+        },
+        "0b49d2d2-0529-11ec-a8a5-020dc2b44123": {
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.085370295346291,
+                    "y": 2.410999860935508,
+                    "z": 1.179123593128807
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6133797046537091,
+                    "y": 2.0262087100950614,
+                    "z": -0.5587464068711929
+                }
+            }
+        }
+    },
+    "entities": {
+        "0b4565ee-0529-11ec-b6a3-020dc2b44123_BRepFace_4": {
+            "body": "0b4565ee-0529-11ec-b6a3-020dc2b44123",
+            "type": "BRepFace",
+            "index": 4,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 19.35405792774374,
+                    "y": 3.936042592401063,
+                    "z": 0.0
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 15.665821459041053,
+                    "y": 0.36566443350121025,
+                    "z": 0.0
+                }
+            }
+        },
+        "0b41206c-0529-11ec-87d0-020dc2b44123_BRepFace_45": {
+            "body": "0b41206c-0529-11ec-87d0-020dc2b44123",
+            "type": "BRepFace",
+            "index": 45,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.1587500000000004,
+                    "y": 0.3175,
+                    "z": 1.111250000000001
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -4.2227500000000004,
+                    "y": 0.3175,
+                    "z": -3.143249999999999
+                }
+            }
+        },
+        "0b46024a-0529-11ec-81a8-020dc2b44123_BRepFace_1": {
+            "body": "0b46024a-0529-11ec-81a8-020dc2b44123",
+            "type": "BRepFace",
+            "index": 1,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 14.736220378105575,
+                    "y": -0.33885313279730483,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 11.615325764607313,
+                    "y": -0.3998211384745356,
+                    "z": 0.0
+                }
+            }
+        },
+        "0b465040-0529-11ec-8806-020dc2b44123_BRepFace_4": {
+            "body": "0b465040-0529-11ec-8806-020dc2b44123",
+            "type": "BRepFace",
+            "index": 4,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 13.609425727600316,
+                    "y": -0.3388531327973046,
+                    "z": 6.8580000000000005
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 13.156594328405253,
+                    "y": -0.34101313916375603,
+                    "z": 0.762
+                }
+            }
+        },
+        "0b465040-0529-11ec-8806-020dc2b44123_BRepFace_3": {
+            "body": "0b465040-0529-11ec-8806-020dc2b44123",
+            "type": "BRepFace",
+            "index": 3,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 14.491314189691515,
+                    "y": 1.0342441247563305,
+                    "z": 6.8580000000000005
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 11.856442754565066,
+                    "y": -0.3592283705849766,
+                    "z": 0.762
+                }
+            }
+        },
+        "0b465040-0529-11ec-8806-020dc2b44123_BRepFace_2": {
+            "body": "0b465040-0529-11ec-8806-020dc2b44123",
+            "type": "BRepFace",
+            "index": 2,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 12.822425337124802,
+                    "y": -0.3434934080876403,
+                    "z": 6.8580000000000005
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 12.321929232852664,
+                    "y": -0.3592283705849766,
+                    "z": 0.762
+                }
+            }
+        },
+        "0b465040-0529-11ec-8806-020dc2b44123_BRepFace_1": {
+            "body": "0b465040-0529-11ec-8806-020dc2b44123",
+            "type": "BRepFace",
+            "index": 1,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 13.156594328405253,
+                    "y": -0.3361062218935633,
+                    "z": 6.8580000000000005
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 12.822425337124802,
+                    "y": -0.3434934080876403,
+                    "z": 0.762
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_49": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 49,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.35,
+                    "y": 3.0717038144317685,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.35,
+                    "y": 2.1827038144317688,
+                    "z": -12.575873073771058
+                }
+            }
+        },
+        "0b40d208-0529-11ec-b1f1-020dc2b44123_BRepFace_0": {
+            "body": "0b40d208-0529-11ec-b1f1-020dc2b44123",
+            "type": "BRepFace",
+            "index": 0,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.223000000000001,
+                    "y": 3.6162466712864245,
+                    "z": -7.709893445523985
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.223000000000001,
+                    "y": 3.2683246674337227,
+                    "z": -8.057815449376687
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_48": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 48,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -5.715,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.35,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_45": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 45,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -4.445,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -5.08,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_40": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 40,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -3.175,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.81,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_35": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 35,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -1.9049999999999998,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_30": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 30,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.6349999999999998,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -1.27,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_25": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 25,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.6349999999999998,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.0,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_20": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 20,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.9050000000000002,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 1.2699999999999996,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_15": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 15,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.1750000000000007,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 2.54,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_10": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 10,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 4.445,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 3.8100000000000005,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_3": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 3,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 5.715,
+                    "y": 3.2494965839355823,
+                    "z": -12.575873073771058
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 5.08,
+                    "y": 2.8939112735251467,
+                    "z": -12.93147307362456
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_95": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 95,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.35,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 5.715,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_89": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 89,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 5.08,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 5.08,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_6": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 6,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 5.08,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 5.08,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_88": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 88,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 5.715,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 5.715,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_1": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 1,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 5.715,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 5.715,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_85": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 85,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 5.08,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 4.445,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_79": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 79,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.81,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 3.81,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_9": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 9,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.8100000000000005,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 3.8100000000000005,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_78": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 78,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 4.445,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 4.445,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_5": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 5,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 4.445,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 4.445,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_75": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 75,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.81,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 3.175,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_69": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 69,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 2.54,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 2.54,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_14": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 14,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 2.54,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 2.54,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_68": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 68,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.175,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 3.175,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_8": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 8,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.1750000000000007,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 3.1750000000000007,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_65": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 65,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 2.54,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 1.9049999999999998,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_59": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 59,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.27,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 1.27,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_19": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 19,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.2699999999999996,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 1.2699999999999996,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_58": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 58,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.9049999999999998,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 1.9049999999999998,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_13": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 13,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.9050000000000002,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 1.9050000000000002,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_55": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 55,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.27,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.6349999999999998,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_49": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 49,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.0,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.0,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_24": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 24,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.0,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.0,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_48": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 48,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.6349999999999998,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.6349999999999998,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_18": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 18,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.6349999999999998,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.6349999999999998,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_45": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 45,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.0,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6349999999999998,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_39": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 39,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -1.2699999999999996,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -1.2699999999999996,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_29": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 29,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -1.27,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -1.27,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_38": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 38,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.6349999999999998,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6349999999999998,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_23": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 23,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.6349999999999998,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6349999999999998,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_35": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 35,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -1.2699999999999996,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -1.9050000000000002,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_29": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 29,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_34": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 34,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_28": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 28,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -1.9050000000000002,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -1.9050000000000002,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_28": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 28,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -1.9049999999999998,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -1.9049999999999998,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_25": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 25,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.1750000000000007,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_19": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 19,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -3.8100000000000005,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.8100000000000005,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_39": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 39,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -3.81,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.81,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_18": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 18,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -3.1750000000000007,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.1750000000000007,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_33": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 33,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -3.175,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.175,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_15": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 15,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -3.8100000000000005,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -4.445,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_9": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 9,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -5.08,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -5.08,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_44": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 44,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -5.08,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -5.08,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_8": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 8,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -4.445,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -4.445,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_38": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 38,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -4.445,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -4.445,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_6": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 6,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -5.08,
+                    "y": 3.218865428703731,
+                    "z": -12.673160718049221
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -5.715,
+                    "y": 2.915542966434396,
+                    "z": -12.923521549764612
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_1": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 1,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -5.715,
+                    "y": 3.3200332953442504,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -5.715,
+                    "y": 2.8153756549353948,
+                    "z": -13.023688861263501
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_43": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 43,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -5.715,
+                    "y": 3.338396583879681,
+                    "z": -12.5100851016199
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -5.715,
+                    "y": 2.805014913144969,
+                    "z": -13.02037307356866
+                }
+            }
+        },
+        "0b419630-0529-11ec-a6a6-020dc2b44123_BRepFace_70": {
+            "body": "0b419630-0529-11ec-a6a6-020dc2b44123",
+            "type": "BRepFace",
+            "index": 70,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 7.747,
+                    "y": 5.207,
+                    "z": -7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -7.747,
+                    "y": 4.2036999999999995,
+                    "z": -7.62
+                }
+            }
+        },
+        "0b420ad4-0529-11ec-aac9-020dc2b44123_BRepFace_51": {
+            "body": "0b420ad4-0529-11ec-aac9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 51,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.35,
+                    "y": 3.0717038144318733,
+                    "z": -12.486973073776904
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.35,
+                    "y": 2.1827038144318727,
+                    "z": -12.486973073776904
+                }
+            }
+        },
+        "0b44546c-0529-11ec-b6a5-020dc2b44123_BRepFace_100": {
+            "body": "0b44546c-0529-11ec-b6a5-020dc2b44123",
+            "type": "BRepFace",
+            "index": 100,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 6.35,
+                    "y": 3.6263770689073462,
+                    "z": -12.486973073778488
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -6.35,
+                    "y": 3.0150654979421394,
+                    "z": -12.486973073778488
+                }
+            }
+        },
+        "0b419630-0529-11ec-a6a6-020dc2b44123_BRepFace_43": {
+            "body": "0b419630-0529-11ec-a6a6-020dc2b44123",
+            "type": "BRepFace",
+            "index": 43,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 7.747,
+                    "y": 5.207,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -7.747,
+                    "y": 4.2036999999999995,
+                    "z": 7.62
+                }
+            }
+        },
+        "0b482558-0529-11ec-8461-020dc2b44123_BRepFace_14": {
+            "body": "0b482558-0529-11ec-8461-020dc2b44123",
+            "type": "BRepFace",
+            "index": 14,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.079745295346291,
+                    "y": 0.030052008965258878,
+                    "z": 3.0505610931288074
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.9897452953462911,
+                    "y": 0.030052008965258878,
+                    "z": 1.2613630130855553
+                }
+            }
+        },
+        "0b482558-0529-11ec-8461-020dc2b44123_BRepFace_9": {
+            "body": "0b482558-0529-11ec-8461-020dc2b44123",
+            "type": "BRepFace",
+            "index": 9,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.5177547046537092,
+                    "y": 0.030052008965258878,
+                    "z": 3.0505610931288074
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6077547046537091,
+                    "y": 0.030052008965258878,
+                    "z": 1.2613630130855553
+                }
+            }
+        },
+        "0b495d6c-0529-11ec-ace9-020dc2b44123_BRepFace_18": {
+            "body": "0b495d6c-0529-11ec-ace9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 18,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.9484952953462915,
+                    "y": 0.029999999999999777,
+                    "z": 1.1300735931288073
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.4765047046537101,
+                    "y": 0.029999999999999777,
+                    "z": -0.29492640687119276
+                }
+            }
+        },
+        "0b495d6c-0529-11ec-ace9-020dc2b44123_BRepFace_15": {
+            "body": "0b495d6c-0529-11ec-ace9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 15,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.9484952953462922,
+                    "y": 0.17999999999999933,
+                    "z": 1.205073593128807
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.7984952953462924,
+                    "y": 0.029999999999999777,
+                    "z": 0.5300735931288072
+                }
+            }
+        },
+        "0b495d6c-0529-11ec-ace9-020dc2b44123_BRepFace_11": {
+            "body": "0b495d6c-0529-11ec-ace9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 11,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.3265047046537102,
+                    "y": 0.1799999999999992,
+                    "z": 1.205073593128807
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.4765047046537103,
+                    "y": 0.029999999999999777,
+                    "z": 0.5300735931288071
+                }
+            }
+        },
+        "0b431c1c-0529-11ec-b773-020dc2b44123_BRepFace_14": {
+            "body": "0b431c1c-0529-11ec-b773-020dc2b44123",
+            "type": "BRepFace",
+            "index": 14,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 1.079745295346291,
+                    "y": 0.030052008965258878,
+                    "z": -1.2613630130855553
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.9897452953462911,
+                    "y": 0.030052008965258878,
+                    "z": -3.0505610931288074
+                }
+            }
+        },
+        "0b431c1c-0529-11ec-b773-020dc2b44123_BRepFace_9": {
+            "body": "0b431c1c-0529-11ec-b773-020dc2b44123",
+            "type": "BRepFace",
+            "index": 9,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.5177547046537092,
+                    "y": 0.030052008965258878,
+                    "z": -1.2613630130855553
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.6077547046537091,
+                    "y": 0.030052008965258878,
+                    "z": -3.0505610931288074
+                }
+            }
+        },
+        "0b42a6e6-0529-11ec-8f25-020dc2b44123_BRepFace_18": {
+            "body": "0b42a6e6-0529-11ec-8f25-020dc2b44123",
+            "type": "BRepFace",
+            "index": 18,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.9484952953462915,
+                    "y": 0.029999999999999777,
+                    "z": 0.29492640687119276
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.4765047046537101,
+                    "y": 0.029999999999999777,
+                    "z": -1.1300735931288073
+                }
+            }
+        },
+        "0b42a6e6-0529-11ec-8f25-020dc2b44123_BRepFace_15": {
+            "body": "0b42a6e6-0529-11ec-8f25-020dc2b44123",
+            "type": "BRepFace",
+            "index": 15,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.9484952953462922,
+                    "y": 0.17999999999999933,
+                    "z": -0.5300735931288078
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 0.7984952953462924,
+                    "y": 0.029999999999999777,
+                    "z": -1.205073593128807
+                }
+            }
+        },
+        "0b42a6e6-0529-11ec-8f25-020dc2b44123_BRepFace_11": {
+            "body": "0b42a6e6-0529-11ec-8f25-020dc2b44123",
+            "type": "BRepFace",
+            "index": 11,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -0.3265047046537102,
+                    "y": 0.1799999999999992,
+                    "z": -0.5300735931288075
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.4765047046537103,
+                    "y": 0.029999999999999777,
+                    "z": -1.205073593128807
+                }
+            }
+        },
+        "0b41206c-0529-11ec-87d0-020dc2b44123_BRepFace_75": {
+            "body": "0b41206c-0529-11ec-87d0-020dc2b44123",
+            "type": "BRepFace",
+            "index": 75,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 7.747,
+                    "y": 3.1622999999999992,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -7.747,
+                    "y": 1.143,
+                    "z": 7.62
+                }
+            }
+        },
+        "0b473a98-0529-11ec-846a-020dc2b44123_BRepFace_25": {
+            "body": "0b473a98-0529-11ec-846a-020dc2b44123",
+            "type": "BRepFace",
+            "index": 25,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 3.2856778053310234,
+                    "y": 3.0474750203889687,
+                    "z": 7.620000000000001
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 2.5399999999999996,
+                    "y": 2.0325249796110314,
+                    "z": 7.620000000000001
+                }
+            }
+        },
+        "0b473a98-0529-11ec-846a-020dc2b44123_BRepFace_15": {
+            "body": "0b473a98-0529-11ec-846a-020dc2b44123",
+            "type": "BRepFace",
+            "index": 15,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": -2.54,
+                    "y": 3.0474750203889687,
+                    "z": 7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -3.285677805331022,
+                    "y": 2.0325249796110314,
+                    "z": 7.62
+                }
+            }
+        },
+        "0b495d6c-0529-11ec-ace9-020dc2b44123_BRepFace_40": {
+            "body": "0b495d6c-0529-11ec-ace9-020dc2b44123",
+            "type": "BRepFace",
+            "index": 40,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.9283991059139581,
+                    "y": 0.1049999999999998,
+                    "z": 1.205073593128807
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.45640851522137604,
+                    "y": 0.029999999999999777,
+                    "z": 1.1300735931288073
+                }
+            }
+        },
+        "0b45b43a-0529-11ec-8f48-020dc2b44123_BRepFace_5": {
+            "body": "0b45b43a-0529-11ec-8f48-020dc2b44123",
+            "type": "BRepFace",
+            "index": 5,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.4765047046537091,
+                    "y": -0.030000000000000013,
+                    "z": 0.30757359312880805
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.948495295346291,
+                    "y": -0.030000000000000013,
+                    "z": -0.17242640687119337
+                }
+            }
+        },
+        "0b42a6e6-0529-11ec-8f25-020dc2b44123_BRepFace_40": {
+            "body": "0b42a6e6-0529-11ec-8f25-020dc2b44123",
+            "type": "BRepFace",
+            "index": 40,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.9283991059139581,
+                    "y": 0.10499999999999979,
+                    "z": -1.1300735931288073
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.45640851522137604,
+                    "y": 0.029999999999999777,
+                    "z": -1.205073593128807
+                }
+            }
+        },
+        "0b427fe4-0529-11ec-ba06-020dc2b44123_BRepFace_5": {
+            "body": "0b427fe4-0529-11ec-ba06-020dc2b44123",
+            "type": "BRepFace",
+            "index": 5,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 0.4765047046537091,
+                    "y": -0.030000000000000013,
+                    "z": 0.17242640687119337
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -0.948495295346291,
+                    "y": -0.030000000000000013,
+                    "z": -0.30757359312880805
+                }
+            }
+        },
+        "0b41206c-0529-11ec-87d0-020dc2b44123_BRepFace_71": {
+            "body": "0b41206c-0529-11ec-87d0-020dc2b44123",
+            "type": "BRepFace",
+            "index": 71,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 7.747,
+                    "y": 3.1622999999999992,
+                    "z": -7.62
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": -7.747,
+                    "y": 1.143,
+                    "z": -7.62
+                }
+            }
+        },
+        "0b4565ee-0529-11ec-b6a3-020dc2b44123_BRepFace_7": {
+            "body": "0b4565ee-0529-11ec-b6a3-020dc2b44123",
+            "type": "BRepFace",
+            "index": 7,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 18.72940187627167,
+                    "y": 0.36566443350121025,
+                    "z": 0.3048
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 16.29047751051394,
+                    "y": 0.060864433501210964,
+                    "z": 0.0
+                }
+            }
+        },
+        "0b4565ee-0529-11ec-b6a3-020dc2b44123_BRepFace_1": {
+            "body": "0b4565ee-0529-11ec-b6a3-020dc2b44123",
+            "type": "BRepFace",
+            "index": 1,
+            "bounding_box": {
+                "type": "BoundingBox3D",
+                "max_point": {
+                    "type": "Point3D",
+                    "x": 19.35405792774374,
+                    "y": 4.253542592401063,
+                    "z": 0.3175
+                },
+                "min_point": {
+                    "type": "Point3D",
+                    "x": 15.665821459041053,
+                    "y": 3.936042592401063,
+                    "z": 0.0
+                }
+            }
+        }
+    }
+}
