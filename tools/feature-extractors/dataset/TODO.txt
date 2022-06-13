@@ -1,0 +1,1 @@
+Put the assembly folders that you want to perform feature extraction here.
