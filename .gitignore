@@ -1,8 +1,12 @@
 sample-dataset/
-.*
+
+tools/feature-extractors/assembly-jsons
+tools/feature-extractors/assembly-thumbnails
+tools/feature-extractors/body-thumbnails
+tools/feature-extractors/dataset
 
 ##################
-
+.*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
