@@ -1,10 +1,11 @@
 # IDETC-Hackathon 2022
 ## Introduction
 Welcome to the IDETC Hackathon 2022!
+[Copy some introductory content from the Google Docs]
 Blah blah blah...
 
 ## Your Goal
-
+...is to cluster the assemblies based on their similarity.
 
 ## Folder Structure
 
@@ -28,7 +29,7 @@ Blah blah blah...
 
 ### Section 0: Obtaining the Dataset 
 - **Description:** The dataset used in this Hackathon is generated from the [Fusion 360 Gallery Assembly Dataset](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md), after processing steps that include feature removal and image downsampling to simplify the problem and to reduce the size of the dataset.
-- :white_check_mark: **Download Link:** Please download the dataset from [here](), and unzip it. The dataset is roughly 3.5 GB in size.
+- :white_check_mark: **Download Link:** Please download the dataset from [here](https://myshare.autodesk.com/:u:/g/personal/shijie_bian_autodesk_com/EaNGU_hPjUJIig61f10SlTMBZ1aCvkiMoGlIxfcIAbIfHQ?e=VXlRb0), and unzip it. The dataset is roughly 3.5 GB in size.
 - **Dataset Statistics:** 8251 assemblies + 154468 bodies.
 - **Dataset Specifications:** Please refer to [the original documentation](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md), and the README file in the `sample-dataset` directory.
 
