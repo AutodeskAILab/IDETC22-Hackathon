@@ -1,6 +1,7 @@
 """
 
 Download and extract the Fusion 360 Gallery Assembly Dataset
+Ref: https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/tools/assembly_download/assembly_download.py
 
 """
 

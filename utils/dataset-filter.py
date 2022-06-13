@@ -1,5 +1,5 @@
 """
-Transfer the files (PNG/OBJ/JSON files) from original (a02) dataset to the current ones
+Filter out ONLY the PNG and JSON files from the original assembly dataset
 """
 import os
 import shutil
