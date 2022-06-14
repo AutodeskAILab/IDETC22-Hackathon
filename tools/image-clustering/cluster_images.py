@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     # Create dirs with links to images. Dirs represent the clusters the images
     # belong to.
-    postproc.make_links(clusters, 'clusters')  # TODO: specify YOUR output directory
+    postproc.make_links(clusters, 'results')  # TODO: specify YOUR output directory
 
     # TODO: un-comment if you want to plot images arranged in clusters and save plot
     # fig, ax = postproc.plot_clusters(clusters, images)
