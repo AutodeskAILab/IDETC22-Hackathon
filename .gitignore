@@ -8,6 +8,8 @@ tools/feature-extractors/dataset
 tools/image-similarity/images
 tools/image-similarity/fingerprints.csv
 
+tools/image-clustering/images
+tools/image-clustering/results
 ##################
 .*
 # Byte-compiled / optimized / DLL files
