@@ -23,5 +23,4 @@ python feature-extractor.py --feature assembly_thumbnail
 # "[body ID].jpg" will be renamed to "[assembly ID]_sep_[body ID].jpg"
 
 python feature-extractor.py --feature body_thumbnail
-
 ```
