@@ -63,12 +63,11 @@ def _extract(fp, model):
 def save_features(features, img_fns, write_to):
     # Make into a DataFrame and add an ID column
     features_df = DF(features, dtype=object)
-    id_col = DF(img_fns, dtype=str)
-    features_df.insert(0, 'ID', id_col)
+    features_df.insert(0, 'ID', img_fns)
 
     if write_to is not None:
         try:
-            features_df.to_csv(write_to, index=False, mode='a')
+            features_df.to_csv(write_to, index=False, mode='w')
             print('Wrote features to: "{}"'.format(write_to))
         except Exception as e:
             print('WARNING: Feature extraction could not write to file: "{}"'.format(e))

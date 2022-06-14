@@ -16,10 +16,10 @@ from utils.umap_reducer import umap
 
 def main(argv):
     parser = argparse.ArgumentParser()
-    parser.add_argument('mode', help='extract | tsne | umap')
-    parser.add_argument('data',
+    parser.add_argument('mode', default='features', help='extract | tsne | umap')
+    parser.add_argument('data', default='./images',
                         help='[features]: Filepath to an image or folder containing images to extract features from. [tsne/umap]: Filepath to a .csv file to read into a DataFrame. ')
-    parser.add_argument('out', help='Output filepath of operation')
+    parser.add_argument('out', default='fingerprints.csv', help='Output filepath of operation')
     parser.add_argument('--feature-cols', '-f',
                         help='[tsne/umap]: Numerical data column indices to treat as features. Ex: "B,C,F", use "all" to consider all columns (excluding optional unique-col).')
     parser.add_argument('--unique-col', '-u',
