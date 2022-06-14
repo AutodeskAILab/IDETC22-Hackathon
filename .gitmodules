@@ -1,0 +1,3 @@
+[submodule "tools/image-clustering/imagecluster"]
+	path = tools/image-clustering/imagecluster
+	url = https://github.com/elcorto/imagecluster.git
