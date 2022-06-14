@@ -1,0 +1,12 @@
+name: IDETC-Hackathon-2022
+channels:
+  - defaults
+
+dependencies:
+  - python=3.8
+  - tqdm
+  - pandas
+  - tensorflow
+  - scikit-learn
+  - umap-learn
+  - pillow
