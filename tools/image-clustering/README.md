@@ -1,4 +1,13 @@
-To use the cluster_body_images.py code, you would need to install [imagecluster](https://elcorto.github.io/imagecluster/index.html)
+# image-clustering
+
+## Description
+This tool performs unsupervised clustering of 2D images. Specifically, it generates "fingerprint" embeddings that are expressive in terms of image features by running a pre-trained ResNet model, and uses the "fingerprint" embeddings to cluster images that are alike.
+
+Since our goal is to find and evaluate similarity of assembly design models, you may find it helpful to **use this tool to cluster assembly.png thumbnail images**, which can serve as a baseline or as a starting point.
+
+## Installing
+
+To use the cluster_body_images.py code, you would need to install [imagecluster](https://elcorto.github.io/imagecluster/index.html) with the following steps:
 
 1. Clone imagecluster at this directory
 
@@ -16,7 +25,7 @@ pip install -e .
 3. Make slight modifications to the imagecluster for better compatibility
 
 ```
-# in postproc.py, change function make_links in postproc.py to the following
+# in postproc.py, change function "make_links()" in "postproc.py" to the following
 # for COPYING images instead of creating symbolic links
 
 def make_links(clusters, cluster_dr):
@@ -46,7 +55,7 @@ def make_links(clusters, cluster_dr):
 
 #####################################################################
 # if your computer cannot manage multiprocessing when reading huge amount of images
-# change the function read_images in io.py to the following:
+# change the function "read_images()" in "io.py" to the following:
 
 from tqdm import tqdm
 
@@ -78,4 +87,11 @@ def read_images(imagedir, size, ncores=mp.cpu_count()):
 ```
 
 ---
+
+## Usage
+- Place the 2D images that you want to perform clustering inside the folder "images"
+- Run the following commands to perform image clustering
+```
+
+```
 
