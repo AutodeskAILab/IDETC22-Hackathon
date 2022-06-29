@@ -49,7 +49,7 @@ def extraction(args):
 def get_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--feature', type=str)
-    parser.add_argument('--input', type=str, default="./dataset")
+    parser.add_argument('--input', type=str, default="../../dataset")
     return parser.parse_args()
 
 
