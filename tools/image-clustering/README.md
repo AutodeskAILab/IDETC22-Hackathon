@@ -92,6 +92,6 @@ def read_images(imagedir, size, ncores=mp.cpu_count()):
 - Place the 2D images that you want to perform clustering inside the folder "images"
 - Run the following commands to perform image clustering
 ```
-
+python cluster_images.py
 ```
 
