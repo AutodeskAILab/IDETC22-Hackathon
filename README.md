@@ -44,8 +44,8 @@ Blah blah blah...
 # If you are using Windows, open "Anaconda Prompt (Anaconda 3)" on your device
 
 cd [path to this repository]                      # go to where you saved this repository on your local machine
-conda env create --file=IDETC-Hackathon-2022.yml  # reproduce conda environment from .yml
-conda activate IDETC-Hackathon-2022               # activate the created environment
+conda env create --file=IDETC22-Hackathon.yml  # reproduce conda environment from .yml
+conda activate IDETC22-Hackathon               # activate the created environment
 
 # Now you should be able to use the tools and utilities in this repository through the Anaconda prompt
 # Note that you would need to re-activate the environment each time you close and re-opens the Anaconda prompt
