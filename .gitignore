@@ -8,6 +8,8 @@ tools/image-similarity/fingerprints.csv
 
 tools/image-clustering/images
 tools/image-clustering/results
+
+IDETC22-Hackathon-Dataset
 ##################
 .*
 # Byte-compiled / optimized / DLL files
