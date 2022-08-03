@@ -22,7 +22,11 @@ Blah blah blah...
 ├─ tools                       # Helper tools for your reference
 |  ├─ feature-extractors       # [Tool 1]: extract specific files from the dataset
 |  ├─ image-clustring          # [Tool 2]: unsupervised clustering of 2D thumbnail images
-|  ├─ image-similarity         # [Tool 3]: create fingerprints that expresses features extracted from 2D thumbnail images
+|  └─ image-similarity         # [Tool 3]: create fingerprints that expresses features extracted from 2D thumbnail images
+│ 
+└─ documents                    # Documentation for problem statement and final submission 
+   ├─ Final Submission Template.pptx  # Use this to document your final results
+
 
 ```
 
