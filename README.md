@@ -1,8 +1,6 @@
 # IDETC-Hackathon 2022
 ## Introduction and Logistics
 Welcome to the IDETC Hackathon 2022!
-[Copy some introductory content from the Google Docs]
-Blah blah blah...
 
 ## Your Goal
 ...is to cluster the assemblies based on their similarity.
