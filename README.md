@@ -19,9 +19,9 @@ Welcome to the IDETC Hackathon 2022!
 |  ├─ image-clustring          # [Tool 2]: unsupervised clustering of 2D thumbnail images
 |  └─ image-similarity         # [Tool 3]: create fingerprints that expresses features extracted from 2D thumbnail images
 │ 
-└─ documents                    # Documentation for problem statement and final submission 
+└─ documents                   # Documentation for problem statement and final submission 
    ├─ Final Submission Template.pptx  # Use this to document your final results
-
+   └─ Autodesk Hackathon Problem Statement.pdf   # Outlines the problem statement
 
 ```
 
